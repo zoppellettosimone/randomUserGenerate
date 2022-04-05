@@ -1,0 +1,16 @@
+D:\-PerGit\RandomUserGenerate\RandomUserGenerateConsole\RandomUserGenerateConsole\bin\Debug\netcoreapp3.1\RandomUserGenerateConsole.exe
+D:\-PerGit\RandomUserGenerate\RandomUserGenerateConsole\RandomUserGenerateConsole\bin\Debug\netcoreapp3.1\RandomUserGenerateConsole.deps.json
+D:\-PerGit\RandomUserGenerate\RandomUserGenerateConsole\RandomUserGenerateConsole\bin\Debug\netcoreapp3.1\RandomUserGenerateConsole.runtimeconfig.json
+D:\-PerGit\RandomUserGenerate\RandomUserGenerateConsole\RandomUserGenerateConsole\bin\Debug\netcoreapp3.1\RandomUserGenerateConsole.runtimeconfig.dev.json
+D:\-PerGit\RandomUserGenerate\RandomUserGenerateConsole\RandomUserGenerateConsole\bin\Debug\netcoreapp3.1\RandomUserGenerateConsole.dll
+D:\-PerGit\RandomUserGenerate\RandomUserGenerateConsole\RandomUserGenerateConsole\bin\Debug\netcoreapp3.1\RandomUserGenerateConsole.pdb
+D:\-PerGit\RandomUserGenerate\RandomUserGenerateConsole\RandomUserGenerateConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\-PerGit\RandomUserGenerate\RandomUserGenerateConsole\RandomUserGenerateConsole\obj\Debug\netcoreapp3.1\RandomUserGenerateConsole.csproj.AssemblyReference.cache
+D:\-PerGit\RandomUserGenerate\RandomUserGenerateConsole\RandomUserGenerateConsole\obj\Debug\netcoreapp3.1\RandomUserGenerateConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\-PerGit\RandomUserGenerate\RandomUserGenerateConsole\RandomUserGenerateConsole\obj\Debug\netcoreapp3.1\RandomUserGenerateConsole.AssemblyInfoInputs.cache
+D:\-PerGit\RandomUserGenerate\RandomUserGenerateConsole\RandomUserGenerateConsole\obj\Debug\netcoreapp3.1\RandomUserGenerateConsole.AssemblyInfo.cs
+D:\-PerGit\RandomUserGenerate\RandomUserGenerateConsole\RandomUserGenerateConsole\obj\Debug\netcoreapp3.1\RandomUserGenerateConsole.csproj.CoreCompileInputs.cache
+D:\-PerGit\RandomUserGenerate\RandomUserGenerateConsole\RandomUserGenerateConsole\obj\Debug\netcoreapp3.1\RandomUserGenerateConsole.csproj.CopyComplete
+D:\-PerGit\RandomUserGenerate\RandomUserGenerateConsole\RandomUserGenerateConsole\obj\Debug\netcoreapp3.1\RandomUserGenerateConsole.dll
+D:\-PerGit\RandomUserGenerate\RandomUserGenerateConsole\RandomUserGenerateConsole\obj\Debug\netcoreapp3.1\RandomUserGenerateConsole.pdb
+D:\-PerGit\RandomUserGenerate\RandomUserGenerateConsole\RandomUserGenerateConsole\obj\Debug\netcoreapp3.1\RandomUserGenerateConsole.genruntimeconfig.cache

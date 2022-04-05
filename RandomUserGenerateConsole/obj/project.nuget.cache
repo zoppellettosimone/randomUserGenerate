@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K4X9KzPvgspCoGoefW+P+z3rKz+NrSxcDxmpRech54jBiMvdIeQC7H1wiJo+DeSELHJPi8PPzoDuUK0vbiGvYw==",
+  "success": true,
+  "projectFilePath": "D:\\-PerGit\\RandomUserGenerate\\RandomUserGenerateConsole\\RandomUserGenerateConsole\\RandomUserGenerateConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\testuser\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
